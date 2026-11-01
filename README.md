@@ -1,1 +1,1 @@
-# justDuo
+# justType Repo
